@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Second commit" );
         System.out.println( "Cnflict" );
+        System.out.println( "Second commit-test" );
     }
 }
